@@ -5,9 +5,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ramonz30" alt="ramonz30" /></a> </p>
 
-- 🔭 I’m currently working on [x_pense](https://github.com/Ramonz30/xpense_web.git)
 
 - 🌱 I’m currently learning **Flutter and dart.**
+- 😃 I love to code.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
